@@ -1,0 +1,48 @@
+export const siteConfig = {
+  name: "RAAK Sapphire",
+  legalName: "RAAK SAPPHIRE PVT LTD",
+  tagline: "Your EdTech Partner — Today, Tomorrow & Beyond",
+  leadership: "Run by Navodayan Alumni & IITians",
+  targetInstitutions: "Empowering Schools, PU Colleges, Bangalore University, VTU and Autonomous Institutions",
+  contact: {
+    phones: ["+91 97422 25873", "+91 82173 78963"],
+    email: "contactus@raaksapphire.com",
+    website: "https://www.raaksapphire.com",
+    whatsapp: "+919742225873",
+    address: {
+      street: "28, Service Rd, next to Prashanth Hospital, towards Electronic City",
+      area: "Bommanahalli",
+      city: "Bengaluru",
+      state: "Karnataka",
+      pincode: "560068",
+    },
+    branches: ["Noida", "Bhopal", "Bihar", "Jharkhand"],
+    social: {
+      linkedin: "https://www.linkedin.com/company/raaksapphire",
+      instagram: "https://www.instagram.com/raaksapphire",
+      youtube: "https://www.youtube.com/@raaksapphire",
+      facebook: "https://www.facebook.com/raaksapphire",
+    },
+  },
+  subBrands: [
+    { name: "ROSBOTZ", motto: "Build · Code · Fly" },
+    { name: "STEAM IT Foundation", motto: "Experiential STEAM for All" },
+  ],
+  about: {
+    headline: "Future-Focused Technology & Education",
+    description: "Raak Sapphire Pvt Ltd is a future-focused technology and education company dedicated to empowering students, schools, colleges, and institutions through cutting-edge innovation. We specialize in Artificial Intelligence (AI), Robotics, Drones, 3D Printing, AR/VR, IoT, Coding, and STEAM-based experiential learning solutions aligned with NEP 2020.",
+    mission: "To empower students, professionals, and industries with future-ready skills through Artificial Intelligence, Robotics, Drone Technology, Coding, Automation, and Industry 4.0, fostering innovation through hands-on, project-based learning.",
+    vision: "To be a leading force in AI, Robotics, Drone Technology, and Industry 4.0 education, creating innovators, problem-solvers, and technology leaders who drive the future of industries and society.",
+  },
+  navLinks: [
+    { label: "About", href: "/about" },
+    { label: "Schools & STEAM", href: "/schools" },
+    { label: "VTU & BU Curriculums", href: "/curriculum" },
+    { label: "Programmes", href: "/programmes" },
+    { label: "Certifications", href: "/certifications" },
+    { label: "DaaS Model", href: "/daas" },
+    { label: "Labs", href: "/labs" },
+    { label: "Careers", href: "/careers-ecosystem" },
+    { label: "Recognition", href: "/recognition" },
+  ],
+}
