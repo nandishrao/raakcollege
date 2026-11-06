@@ -127,7 +127,7 @@ export default function Navbar() {
                 to="/curriculum"
                 className={cn('transition-colors py-1 hover:text-burgundy', pathname === '/curriculum' ? 'text-burgundy font-bold border-b-2 border-burgundy' : 'text-charcoal')}
               >
-                VTU & BUCurriculamm
+                VTU & BU Curriculamm
               </Link>
               <Link
                 to="/programmes"
